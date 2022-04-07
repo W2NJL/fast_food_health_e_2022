@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'dart:ui' as ui;
 
-import 'package:flutter_diet_tips/util/ConstantData.dart';
+import 'package:fast_food_health_e_2022/util/ConstantData.dart';
 
 
 

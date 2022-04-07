@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/fast_food_health_e_2022/flutter_diet_meal_planner_ui.iml" filepath="$PROJECT_DIR$/fast_food_health_e_2022/flutter_diet_meal_planner_ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fast_food_health_e_2022/fast_food_health_e_2022.iml" filepath="$PROJECT_DIR$/fast_food_health_e_2022/fast_food_health_e_2022.iml" />
     </modules>
   </component>
 </project>

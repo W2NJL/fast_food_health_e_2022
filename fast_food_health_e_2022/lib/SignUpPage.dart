@@ -3,9 +3,9 @@ import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_diet_tips/util/ConstantData.dart';
-import 'package:flutter_diet_tips/util/ConstantWidget.dart';
-import 'package:flutter_diet_tips/util/SizeConfig.dart';
+import 'package:fast_food_health_e_2022/util/ConstantData.dart';
+import 'package:fast_food_health_e_2022/util/ConstantWidget.dart';
+import 'package:fast_food_health_e_2022/util/SizeConfig.dart';
 
 import 'package:country_code_picker/country_code_picker.dart';
 

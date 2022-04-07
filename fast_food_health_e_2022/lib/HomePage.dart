@@ -4,8 +4,8 @@ import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_diet_tips/TabHealthTip.dart';
-import 'package:flutter_diet_tips/util/ConstantData.dart';
+import 'package:fast_food_health_e_2022/TabHealthTip.dart';
+import 'package:fast_food_health_e_2022/util/ConstantData.dart';
 
 import 'TabDiet.dart';
 import 'TabDishes.dart';

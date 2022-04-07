@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_diet_tips/util/ConstantData.dart';
-import 'package:flutter_diet_tips/util/ConstantWidget.dart';
-import 'package:flutter_diet_tips/util/CustomDialogBox.dart';
-import 'package:flutter_diet_tips/util/SizeConfig.dart';
+import 'package:fast_food_health_e_2022/util/ConstantData.dart';
+import 'package:fast_food_health_e_2022/util/ConstantWidget.dart';
+import 'package:fast_food_health_e_2022/util/CustomDialogBox.dart';
+import 'package:fast_food_health_e_2022/util/SizeConfig.dart';
 import 'WidgetNotificationConfirmation.dart';
 import 'package:pin_input_text_field/pin_input_text_field.dart';
 

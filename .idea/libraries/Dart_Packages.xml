@@ -142,13 +142,6 @@
             </list>
           </value>
         </entry>
-        <entry key="flutter_diet_tips">
-          <value>
-            <list>
-              <option value="$PROJECT_DIR$/flutter_diet_meal_planner_ui/lib" />
-            </list>
-          </value>
-        </entry>
         <entry key="flutter_localizations">
           <value>
             <list>
@@ -599,7 +592,6 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/win32-2.4.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/xdg_directories-0.2.0+1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/xml-5.3.1/lib" />
-      <root url="file://$PROJECT_DIR$/flutter_diet_meal_planner_ui/lib" />
       <root url="file://$USER_HOME$/flutter/flutter/bin/cache/pkg/sky_engine/lib" />
       <root url="file://$USER_HOME$/flutter/flutter/packages/flutter/lib" />
       <root url="file://$USER_HOME$/flutter/flutter/packages/flutter_localizations/lib" />

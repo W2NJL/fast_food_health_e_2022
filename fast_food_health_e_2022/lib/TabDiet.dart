@@ -4,11 +4,11 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:flutter/rendering.dart';
-import 'package:flutter_diet_tips/model/CategoryModel.dart';
-import 'package:flutter_diet_tips/util/ConstantData.dart';
-import 'package:flutter_diet_tips/util/ConstantWidget.dart';
-import 'package:flutter_diet_tips/util/DataFile.dart';
-import 'package:flutter_diet_tips/util/SizeConfig.dart';
+import 'package:fast_food_health_e_2022/model/CategoryModel.dart';
+import 'package:fast_food_health_e_2022/util/ConstantData.dart';
+import 'package:fast_food_health_e_2022/util/ConstantWidget.dart';
+import 'package:fast_food_health_e_2022/util/DataFile.dart';
+import 'package:fast_food_health_e_2022/util/SizeConfig.dart';
 import 'package:visibility_detector/visibility_detector.dart';
 
 import 'YourDietDetailPage.dart';
@@ -132,7 +132,7 @@ class _TabDiet extends State<TabDiet> {
 
                                 },
                                 child: getTextWidget(
-                                    "Hey, Sophia",
+                                    "Hey, Robert",
                                     Colors.white,
                                     TextAlign.start,
                                     FontWeight.w600,
@@ -143,7 +143,7 @@ class _TabDiet extends State<TabDiet> {
                               SizedBox(height: getPercentSize(
                                   appBarHeight, 3),),
                               getTextWidget(
-                                  "Your Meal Plan",
+                                  "Your Fast Food Health-E Diet Plan",
                                   Colors.white70,
                                   TextAlign.start,
                                   FontWeight.w300,

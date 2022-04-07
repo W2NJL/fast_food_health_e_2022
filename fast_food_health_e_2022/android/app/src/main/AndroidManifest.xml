@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_diet_tips">
+    package="com.example.fast_food_health_e_2022">
    <application
         android:label="diet_tips"
         android:icon="@mipmap/ic_launcher">

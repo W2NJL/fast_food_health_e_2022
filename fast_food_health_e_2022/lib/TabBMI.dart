@@ -6,11 +6,11 @@ import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_diet_tips/util/ConstantData.dart';
-import 'package:flutter_diet_tips/util/ConstantWidget.dart';
-import 'package:flutter_diet_tips/util/MyAssetsBar.dart';
-import 'package:flutter_diet_tips/util/PrefData.dart';
-import 'package:flutter_diet_tips/util/SizeConfig.dart';
+import 'package:fast_food_health_e_2022/util/ConstantData.dart';
+import 'package:fast_food_health_e_2022/util/ConstantWidget.dart';
+import 'package:fast_food_health_e_2022/util/MyAssetsBar.dart';
+import 'package:fast_food_health_e_2022/util/PrefData.dart';
+import 'package:fast_food_health_e_2022/util/SizeConfig.dart';
 import 'package:date_picker_timeline/date_picker_timeline.dart';
 
 import 'generated/l10n.dart';

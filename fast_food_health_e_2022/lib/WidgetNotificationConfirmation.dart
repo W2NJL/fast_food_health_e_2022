@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_diet_tips/util/ConstantData.dart';
-import 'package:flutter_diet_tips/util/ConstantWidget.dart';
-import 'package:flutter_diet_tips/util/SizeConfig.dart';
+import 'package:fast_food_health_e_2022/util/ConstantData.dart';
+import 'package:fast_food_health_e_2022/util/ConstantWidget.dart';
+import 'package:fast_food_health_e_2022/util/SizeConfig.dart';
 import 'SignInPage.dart';
 import 'generated/l10n.dart';
 

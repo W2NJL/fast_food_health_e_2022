@@ -1,14 +1,14 @@
 import 'package:flutter/cupertino.dart';
-import 'package:flutter_diet_tips/model/CategoryModel.dart';
-import 'package:flutter_diet_tips/model/DayModel.dart';
-import 'package:flutter_diet_tips/model/DietModel.dart';
-import 'package:flutter_diet_tips/model/DishModel.dart';
-import 'package:flutter_diet_tips/model/FoodModel.dart';
-import 'package:flutter_diet_tips/model/HealthModel.dart';
-import 'package:flutter_diet_tips/model/IntroModel.dart';
-import 'package:flutter_diet_tips/model/ModelReminder.dart';
-import 'package:flutter_diet_tips/model/NotificationModel.dart';
-import 'package:flutter_diet_tips/model/SliderModel.dart';
+import 'package:fast_food_health_e_2022/model/CategoryModel.dart';
+import 'package:fast_food_health_e_2022/model/DayModel.dart';
+import 'package:fast_food_health_e_2022/model/DietModel.dart';
+import 'package:fast_food_health_e_2022/model/DishModel.dart';
+import 'package:fast_food_health_e_2022/model/FoodModel.dart';
+import 'package:fast_food_health_e_2022/model/HealthModel.dart';
+import 'package:fast_food_health_e_2022/model/IntroModel.dart';
+import 'package:fast_food_health_e_2022/model/ModelReminder.dart';
+import 'package:fast_food_health_e_2022/model/NotificationModel.dart';
+import 'package:fast_food_health_e_2022/model/SliderModel.dart';
 
 class DataFile {
 
@@ -386,51 +386,51 @@ class DataFile {
     List<HealthModel> list = [];
 
     HealthModel healthModel = new HealthModel();
-    healthModel.title = "Don't train everyday";
-    healthModel.image = "healthy_1.jpg";
+    healthModel.title = "2000 calories per day";
+    healthModel.image = "2000.jpg";
     healthModel.time = "2 Months ago";
     healthModel.desc =
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.";
+        "This 2000 calorie diet plan is defined as 3 meals per day each meal no more than 660 calories; There are no other nutrition restrictions other than calories.";
     list.add(healthModel);
 
     healthModel = new HealthModel();
-    healthModel.title = "Stick to free weights";
+    healthModel.title = "1500 calories per day";
     healthModel.image = "healthy_2.jpg";
     healthModel.time = "5 Months ago";
     healthModel.desc =
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.";
+        "This 1500 calorie diet plan is defined as 3 meals per day each meal no more than 500 calories. There are no other nutrient restrictions other than calories. ";
     list.add(healthModel);
 
     healthModel = new HealthModel();
-    healthModel.title = "Do Compound movements";
-    healthModel.image = "healthy_3.jpg";
+    healthModel.title = "1200 calories per day";
+    healthModel.image = "1200.jpg";
     healthModel.time = "2 Months ago";
     healthModel.desc =
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.";
+        "This 1200 calorie diet plan is defined as 3 meals per day each meal no more than 400 calories ; There are no other nutrient restrictions other than calories. ";
     list.add(healthModel);
 
     healthModel = new HealthModel();
-    healthModel.title = "Can we eat paneer";
-    healthModel.image = "healthy_4.jpg";
+    healthModel.title = "Lower Sodium Diet – 2300 mg sodium or less per day";
+    healthModel.image = "sodium.jpg";
     healthModel.time = "5 Months ago";
     healthModel.desc =
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.";
+        "This diet plan is defined as no more than 2300 mg sodium consumed daily.  One meal = no more than 760 mg sodium (*in the information section- add – American Heart Association recommends no more than 2300 mg sodium a day and moving toward an ideal limit of no more than 1500 mg sodium per day for most adults.";
     list.add(healthModel);
 
     healthModel = new HealthModel();
-    healthModel.title = "Is broccoli the  best for fitness?";
-    healthModel.image = "healthy_5.jpg";
-    healthModel.time = "3 Months ago";
-    healthModel.desc =
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.";
-    list.add(healthModel);
-
-    healthModel = new HealthModel();
-    healthModel.title = "Is broccoli the  best for fitness?";
-    healthModel.image = "healthy_6.jpg";
+    healthModel.title = "Lowest Sodium Diet – 1500 mg sodium or less per day";
+    healthModel.image = "sodium2.jpg";
     healthModel.time = "5 Months ago";
     healthModel.desc =
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.";
+    "This diet plan is defined as no more than 1500 mg sodium consumed daily.  One meal= no more than 500 mg sodium (*in the information section- add – American Heart Association recommends no more than 2300 mg sodium a day and moving toward an ideal limit of no more than 1500 mg sodium per day for most adults)";
+    list.add(healthModel);
+
+    healthModel = new HealthModel();
+    healthModel.title = "Very Low Carbohydrate Diet Plan (Ketogenic)";
+    healthModel.image = "keto.jpg";
+    healthModel.time = "5 Months ago";
+    healthModel.desc =
+        "This diet plan is defined as 10% of total daily calories from carbohydrates. ";
     list.add(healthModel);
 
     return list;

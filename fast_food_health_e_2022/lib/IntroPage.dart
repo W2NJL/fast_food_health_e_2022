@@ -3,11 +3,11 @@ import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_diet_tips/util/ConstantData.dart';
-import 'package:flutter_diet_tips/util/ConstantWidget.dart';
-import 'package:flutter_diet_tips/util/DataFile.dart';
-import 'package:flutter_diet_tips/util/PrefData.dart';
-import 'package:flutter_diet_tips/util/SizeConfig.dart';
+import 'package:fast_food_health_e_2022/util/ConstantData.dart';
+import 'package:fast_food_health_e_2022/util/ConstantWidget.dart';
+import 'package:fast_food_health_e_2022/util/DataFile.dart';
+import 'package:fast_food_health_e_2022/util/PrefData.dart';
+import 'package:fast_food_health_e_2022/util/SizeConfig.dart';
 
 import 'SignUpPage.dart';
 import 'generated/l10n.dart';
@@ -52,6 +52,7 @@ class _IntroPage extends State<IntroPage> {
 
   @override
   Widget build(BuildContext context) {
+    print('G wiggle');
     SizeConfig().init(context);
     introModelList = DataFile.getIntroModel(context);
 
