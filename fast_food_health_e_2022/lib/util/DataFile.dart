@@ -84,23 +84,23 @@ class DataFile {
     mainModel.name = "Welcome!";
     mainModel.image = "assets/images/img_1.0.png";
     mainModel.desc =
-    "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.";
+    "Fast Food Health-E is a mobile app that will allow you to choose restaurant food items that fit your dietary needs.";
     introList.add(mainModel);
 
     mainModel = new IntroModel();
     mainModel.id = 2;
-    mainModel.name = "Meal planner";
+    mainModel.name = "Diet Plans";
     mainModel.image = "assets/images/img_2.0.png";
     mainModel.desc =
-    "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.";
+    "3 different levels of calorie, sodium, fat, and cholesterol plans can help tailor meal choices to your needs.";
     introList.add(mainModel);
 
     mainModel = new IntroModel();
     mainModel.id = 3;
-    mainModel.name = "Health Manage";
+    mainModel.name = "Restaurant Listings";
     mainModel.image = "assets/images/img_3.0.png";
     mainModel.desc =
-    "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.";
+    "We help you find the nutritional values of meal options that are often difficult or impossible to locate!";
     introList.add(mainModel);
 
     return introList;
